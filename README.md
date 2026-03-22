@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>Sokoto barga</title>
+  <title>alhakairisaiallah1 Pi App</title>
 
   <!-- Pi SDK -->
   <script src="https://sdk.minepi.com/pi-sdk.js"></script>
@@ -14,7 +14,7 @@
 <body>
 
   <div class="container">
-    <h1>Sokoto barga</h1>
+    <h1>alhakairisaiallah1</h1>
     <p>Pi Ecosystem App</p>
 
     <button id="loginBtn">Login with Pi</button>
